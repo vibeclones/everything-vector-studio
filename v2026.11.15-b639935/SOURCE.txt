@@ -1,0 +1,2 @@
+Built from HeyPuter/everything at commit b639935 (src/vector-studio).
+https://github.com/HeyPuter/everything/tree/b639935/src/vector-studio
